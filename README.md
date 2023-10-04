@@ -52,6 +52,13 @@ npm run dev
 * Pasta: src
 * Dentro da pasta src: crie pasta controladores
   - Nela, serão criados os arquivos controladores
+    
+# Status Code
+* // 200 (OK) = requisição bem sucedida
+* // 201 (Created) = requisição bem sucedida e algo foi criado
+* // 400 (Bad Request) = o servidor não entendeu a requisição pois está com uma sintaxe/formato inválido
+* // 401 (Unauthorized) = o usuário não está autenticado (logado)
+
 
 ##exemplo
 
