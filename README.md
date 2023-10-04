@@ -13,10 +13,32 @@ Desafio para criação de um projeto piloto de um banco digital
 * CONSULTAR EXTRATO
 * EXCLUIR CONTA
 
-## Parâmetros Iniciais
-npm initial -y
+## Parâmetros Iniciais 
+
+* Abra o Terminal e execute os comandos usando a ferramenta NPM 
+
+Iniciar Servidor:
+
+```bash
+ npm i
+```
+Reestartar e Iniciar automaticamente:
+
+```bash
+ npm i -D nodemon
+```
+
+Instalar bibliotecas:
+
+```bash
+ npm i express
+```
+```bash
+ npm i date-fns
+```
+* Crie arquivo
 .gitignore
-nmp install express
+
 criar pasta src
 criar arquivo index.js
 
